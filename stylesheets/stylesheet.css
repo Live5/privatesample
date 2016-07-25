@@ -1,3 +1,5 @@
+html { overflow-x: hidden; overflow-y: auto; }
+
 nav {
 	background: rgba(0,0,0,0.2);
 	height: 50px;
